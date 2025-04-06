@@ -1,0 +1,10 @@
+#include <iostream>
+using namespace std;
+int main(){
+	int x;
+	cout<<" ENTER THE NUMBER : ";
+	cin>>x;
+	char y=(char)x;
+	cout<<" THE CHARACTER OF ASCII VALUE IS : ";
+	cout<<y;
+}
